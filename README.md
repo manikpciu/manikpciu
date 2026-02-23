@@ -77,6 +77,7 @@ LinkedIn: www.linkedin.com/in/manik-mia-0630ab2a2
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manikpciu&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikpciu&layout=compact)
 
 Now Focused on continuous learning and practical development.
